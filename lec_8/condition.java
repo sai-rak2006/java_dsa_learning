@@ -1,6 +1,5 @@
-import java.util.*;
 public class condition{
-    public class void check(){
+    public static void check(){
         do{
             System.out.println("the loop is forever");
         }while(true);
